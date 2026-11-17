@@ -1,0 +1,6244 @@
+{
+ "format": "keynova",
+ "version": 2,
+ "name": "keynova-test-scene",
+ "fps": 30,
+ "duration": 150,
+ "loop": false,
+ "items": [
+  {
+   "id": "item_001",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_002",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "RootJoint",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_003",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "Waist",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_004",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "Neck",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_005",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "LeftShoulder",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_006",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "LeftElbow",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_007",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "LeftWrist",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_008",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "RightShoulder",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_009",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "RightElbow",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_010",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "RightWrist",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_011",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "LeftHip",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_012",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "LeftKnee",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_013",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "LeftAnkle",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_014",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "RightHip",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_015",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "RightKnee",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_016",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "RightAnkle",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_017",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "HumanoidRootPart",
+     "class": "Part",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "item_018",
+   "path": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "Camera",
+     "class": "Camera",
+     "index": 1
+    }
+   ]
+  }
+ ],
+ "tracks": [
+  {
+   "id": "track_001",
+   "name": "RootJoint",
+   "itemId": "item_002",
+   "property": "Transform",
+   "valueType": "CFrame",
+   "keys": [
+    {
+     "id": "key_001",
+     "frame": 0,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RootJoint",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_002",
+     "frame": 7,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RootJoint",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_003",
+     "frame": 15,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RootJoint",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_004",
+     "frame": 22,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RootJoint",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_005",
+     "frame": 30,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RootJoint",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_006",
+     "frame": 37,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RootJoint",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_007",
+     "frame": 45,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RootJoint",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_008",
+     "frame": 52,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RootJoint",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_009",
+     "frame": 60,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RootJoint",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_010",
+     "frame": 75,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RootJoint",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_011",
+     "frame": 120,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RootJoint",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_012",
+     "frame": 150,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RootJoint",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    }
+   ],
+   "locked": false,
+   "enabled": true,
+   "targetPath": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "RootJoint",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ],
+   "rest": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  {
+   "id": "track_002",
+   "name": "Waist",
+   "itemId": "item_003",
+   "property": "Transform",
+   "valueType": "CFrame",
+   "keys": [
+    {
+     "id": "key_013",
+     "frame": 0,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.996195,
+      0.087156,
+      0.0,
+      -0.087156,
+      0.996195
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Waist",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_014",
+     "frame": 7,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.996195,
+      0.087156,
+      0.0,
+      -0.087156,
+      0.996195
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Waist",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_015",
+     "frame": 15,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Waist",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_016",
+     "frame": 22,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Waist",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_017",
+     "frame": 30,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Waist",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_018",
+     "frame": 37,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Waist",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_019",
+     "frame": 45,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Waist",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_020",
+     "frame": 52,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Waist",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_021",
+     "frame": 60,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.996195,
+      0.087156,
+      0.0,
+      -0.087156,
+      0.996195
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Waist",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_022",
+     "frame": 75,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Waist",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_023",
+     "frame": 120,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.984808,
+      -0.173648,
+      0.0,
+      0.173648,
+      0.984808
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Waist",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_024",
+     "frame": 150,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.984808,
+      -0.173648,
+      0.0,
+      0.173648,
+      0.984808
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Waist",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    }
+   ],
+   "locked": false,
+   "enabled": true,
+   "targetPath": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "Waist",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ],
+   "rest": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.996195,
+    0.087156,
+    0.0,
+    -0.087156,
+    0.996195
+   ]
+  },
+  {
+   "id": "track_003",
+   "name": "Neck",
+   "itemId": "item_004",
+   "property": "Transform",
+   "valueType": "CFrame",
+   "keys": [
+    {
+     "id": "key_025",
+     "frame": 0,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Neck",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_026",
+     "frame": 7,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Neck",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_027",
+     "frame": 15,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Neck",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_028",
+     "frame": 22,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Neck",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_029",
+     "frame": 30,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Neck",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_030",
+     "frame": 37,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Neck",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_031",
+     "frame": 45,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Neck",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_032",
+     "frame": 52,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Neck",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_033",
+     "frame": 60,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Neck",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_034",
+     "frame": 75,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Neck",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_035",
+     "frame": 120,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.906308,
+      -0.422618,
+      0.0,
+      0.422618,
+      0.906308
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Neck",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_036",
+     "frame": 150,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.906308,
+      -0.422618,
+      0.0,
+      0.422618,
+      0.906308
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "Neck",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    }
+   ],
+   "locked": false,
+   "enabled": true,
+   "targetPath": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "Neck",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ],
+   "rest": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  },
+  {
+   "id": "track_004",
+   "name": "LeftShoulder",
+   "itemId": "item_005",
+   "property": "Transform",
+   "valueType": "CFrame",
+   "keys": [
+    {
+     "id": "key_037",
+     "frame": 0,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      0.34202,
+      0.0,
+      -0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_038",
+     "frame": 7,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      0.34202,
+      0.0,
+      -0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_039",
+     "frame": 15,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      -0.34202,
+      0.0,
+      0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_040",
+     "frame": 22,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      -0.34202,
+      0.0,
+      0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_041",
+     "frame": 30,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      0.34202,
+      0.0,
+      -0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_042",
+     "frame": 37,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      0.34202,
+      0.0,
+      -0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_043",
+     "frame": 45,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      -0.34202,
+      0.0,
+      0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_044",
+     "frame": 52,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      -0.34202,
+      0.0,
+      0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_045",
+     "frame": 60,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      0.34202,
+      0.0,
+      -0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_046",
+     "frame": 75,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_047",
+     "frame": 120,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      -0.866025,
+      0.0,
+      0.866025,
+      0.5
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_048",
+     "frame": 150,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      -0.866025,
+      0.0,
+      0.866025,
+      0.5
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    }
+   ],
+   "locked": false,
+   "enabled": true,
+   "targetPath": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "LeftShoulder",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ],
+   "rest": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.939693,
+    0.34202,
+    0.0,
+    -0.34202,
+    0.939693
+   ]
+  },
+  {
+   "id": "track_005",
+   "name": "LeftElbow",
+   "itemId": "item_006",
+   "property": "Transform",
+   "valueType": "CFrame",
+   "keys": [
+    {
+     "id": "key_049",
+     "frame": 0,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_050",
+     "frame": 7,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_051",
+     "frame": 15,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_052",
+     "frame": 22,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_053",
+     "frame": 30,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_054",
+     "frame": 37,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_055",
+     "frame": 45,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_056",
+     "frame": 52,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_057",
+     "frame": 60,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_058",
+     "frame": 75,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_059",
+     "frame": 120,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.258819,
+      -0.965926,
+      0.0,
+      0.965926,
+      0.258819
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_060",
+     "frame": 150,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.258819,
+      -0.965926,
+      0.0,
+      0.965926,
+      0.258819
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    }
+   ],
+   "locked": false,
+   "enabled": true,
+   "targetPath": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "LeftElbow",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ],
+   "rest": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.965926,
+    -0.258819,
+    0.0,
+    0.258819,
+    0.965926
+   ]
+  },
+  {
+   "id": "track_006",
+   "name": "RightShoulder",
+   "itemId": "item_008",
+   "property": "Transform",
+   "valueType": "CFrame",
+   "keys": [
+    {
+     "id": "key_061",
+     "frame": 0,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      -0.34202,
+      0.0,
+      0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_062",
+     "frame": 7,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      -0.34202,
+      0.0,
+      0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_063",
+     "frame": 15,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      0.34202,
+      0.0,
+      -0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_064",
+     "frame": 22,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      0.34202,
+      0.0,
+      -0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_065",
+     "frame": 30,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      -0.34202,
+      0.0,
+      0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_066",
+     "frame": 37,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      -0.34202,
+      0.0,
+      0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_067",
+     "frame": 45,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      0.34202,
+      0.0,
+      -0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_068",
+     "frame": 52,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      0.34202,
+      0.0,
+      -0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_069",
+     "frame": 60,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.939693,
+      -0.34202,
+      0.0,
+      0.34202,
+      0.939693
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_070",
+     "frame": 75,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_071",
+     "frame": 120,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      -0.866025,
+      0.0,
+      0.866025,
+      0.5
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_072",
+     "frame": 150,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      -0.866025,
+      0.0,
+      0.866025,
+      0.5
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightShoulder",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    }
+   ],
+   "locked": false,
+   "enabled": true,
+   "targetPath": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "RightShoulder",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ],
+   "rest": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.939693,
+    -0.34202,
+    0.0,
+    0.34202,
+    0.939693
+   ]
+  },
+  {
+   "id": "track_007",
+   "name": "RightElbow",
+   "itemId": "item_009",
+   "property": "Transform",
+   "valueType": "CFrame",
+   "keys": [
+    {
+     "id": "key_073",
+     "frame": 0,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_074",
+     "frame": 7,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_075",
+     "frame": 15,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_076",
+     "frame": 22,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_077",
+     "frame": 30,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_078",
+     "frame": 37,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_079",
+     "frame": 45,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_080",
+     "frame": 52,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_081",
+     "frame": 60,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_082",
+     "frame": 75,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.965926,
+      -0.258819,
+      0.0,
+      0.258819,
+      0.965926
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_083",
+     "frame": 120,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.258819,
+      -0.965926,
+      0.0,
+      0.965926,
+      0.258819
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_084",
+     "frame": 150,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.258819,
+      -0.965926,
+      0.0,
+      0.965926,
+      0.258819
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightElbow",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    }
+   ],
+   "locked": false,
+   "enabled": true,
+   "targetPath": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "RightElbow",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ],
+   "rest": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.965926,
+    -0.258819,
+    0.0,
+    0.258819,
+    0.965926
+   ]
+  },
+  {
+   "id": "track_008",
+   "name": "LeftHip",
+   "itemId": "item_011",
+   "property": "Transform",
+   "valueType": "CFrame",
+   "keys": [
+    {
+     "id": "key_085",
+     "frame": 0,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.906308,
+      -0.422618,
+      0.0,
+      0.422618,
+      0.906308
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_086",
+     "frame": 7,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_087",
+     "frame": 15,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.906308,
+      0.422618,
+      0.0,
+      -0.422618,
+      0.906308
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_088",
+     "frame": 22,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_089",
+     "frame": 30,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.906308,
+      -0.422618,
+      0.0,
+      0.422618,
+      0.906308
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_090",
+     "frame": 37,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_091",
+     "frame": 45,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.906308,
+      0.422618,
+      0.0,
+      -0.422618,
+      0.906308
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_092",
+     "frame": 52,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_093",
+     "frame": 60,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.906308,
+      -0.422618,
+      0.0,
+      0.422618,
+      0.906308
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_094",
+     "frame": 75,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_095",
+     "frame": 120,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_096",
+     "frame": 150,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    }
+   ],
+   "locked": false,
+   "enabled": true,
+   "targetPath": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "LeftHip",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ],
+   "rest": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.906308,
+    -0.422618,
+    0.0,
+    0.422618,
+    0.906308
+   ]
+  },
+  {
+   "id": "track_009",
+   "name": "LeftKnee",
+   "itemId": "item_012",
+   "property": "Transform",
+   "valueType": "CFrame",
+   "keys": [
+    {
+     "id": "key_097",
+     "frame": 0,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.996195,
+      0.087156,
+      0.0,
+      -0.087156,
+      0.996195
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_098",
+     "frame": 7,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.984808,
+      0.173648,
+      0.0,
+      -0.173648,
+      0.984808
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_099",
+     "frame": 15,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.866025,
+      0.5,
+      0.0,
+      -0.5,
+      0.866025
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_100",
+     "frame": 22,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.707107,
+      0.707107,
+      0.0,
+      -0.707107,
+      0.707107
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_101",
+     "frame": 30,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.996195,
+      0.087156,
+      0.0,
+      -0.087156,
+      0.996195
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_102",
+     "frame": 37,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.984808,
+      0.173648,
+      0.0,
+      -0.173648,
+      0.984808
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_103",
+     "frame": 45,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.866025,
+      0.5,
+      0.0,
+      -0.5,
+      0.866025
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_104",
+     "frame": 52,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.707107,
+      0.707107,
+      0.0,
+      -0.707107,
+      0.707107
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_105",
+     "frame": 60,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.996195,
+      0.087156,
+      0.0,
+      -0.087156,
+      0.996195
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_106",
+     "frame": 75,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_107",
+     "frame": 120,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_108",
+     "frame": 150,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "LeftKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    }
+   ],
+   "locked": false,
+   "enabled": true,
+   "targetPath": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "LeftKnee",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ],
+   "rest": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.996195,
+    0.087156,
+    0.0,
+    -0.087156,
+    0.996195
+   ]
+  },
+  {
+   "id": "track_010",
+   "name": "RightHip",
+   "itemId": "item_014",
+   "property": "Transform",
+   "valueType": "CFrame",
+   "keys": [
+    {
+     "id": "key_109",
+     "frame": 0,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.906308,
+      0.422618,
+      0.0,
+      -0.422618,
+      0.906308
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_110",
+     "frame": 7,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_111",
+     "frame": 15,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.906308,
+      -0.422618,
+      0.0,
+      0.422618,
+      0.906308
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_112",
+     "frame": 22,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_113",
+     "frame": 30,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.906308,
+      0.422618,
+      0.0,
+      -0.422618,
+      0.906308
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_114",
+     "frame": 37,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_115",
+     "frame": 45,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.906308,
+      -0.422618,
+      0.0,
+      0.422618,
+      0.906308
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_116",
+     "frame": 52,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_117",
+     "frame": 60,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.906308,
+      0.422618,
+      0.0,
+      -0.422618,
+      0.906308
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_118",
+     "frame": 75,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_119",
+     "frame": 120,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_120",
+     "frame": 150,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightHip",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    }
+   ],
+   "locked": false,
+   "enabled": true,
+   "targetPath": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "RightHip",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ],
+   "rest": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.906308,
+    0.422618,
+    0.0,
+    -0.422618,
+    0.906308
+   ]
+  },
+  {
+   "id": "track_011",
+   "name": "RightKnee",
+   "itemId": "item_015",
+   "property": "Transform",
+   "valueType": "CFrame",
+   "keys": [
+    {
+     "id": "key_121",
+     "frame": 0,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.866025,
+      0.5,
+      0.0,
+      -0.5,
+      0.866025
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_122",
+     "frame": 7,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.707107,
+      0.707107,
+      0.0,
+      -0.707107,
+      0.707107
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_123",
+     "frame": 15,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.996195,
+      0.087156,
+      0.0,
+      -0.087156,
+      0.996195
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_124",
+     "frame": 22,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.984808,
+      0.173648,
+      0.0,
+      -0.173648,
+      0.984808
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_125",
+     "frame": 30,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.866025,
+      0.5,
+      0.0,
+      -0.5,
+      0.866025
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_126",
+     "frame": 37,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.707107,
+      0.707107,
+      0.0,
+      -0.707107,
+      0.707107
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_127",
+     "frame": 45,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.996195,
+      0.087156,
+      0.0,
+      -0.087156,
+      0.996195
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_128",
+     "frame": 52,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.984808,
+      0.173648,
+      0.0,
+      -0.173648,
+      0.984808
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_129",
+     "frame": 60,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.866025,
+      0.5,
+      0.0,
+      -0.5,
+      0.866025
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_130",
+     "frame": 75,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_131",
+     "frame": 120,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_132",
+     "frame": 150,
+     "value": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "RightKnee",
+       "class": "Motor6D",
+       "index": 1
+      }
+     ]
+    }
+   ],
+   "locked": false,
+   "enabled": true,
+   "targetPath": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "RightKnee",
+     "class": "Motor6D",
+     "index": 1
+    }
+   ],
+   "rest": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.866025,
+    0.5,
+    0.0,
+    -0.5,
+    0.866025
+   ]
+  },
+  {
+   "id": "track_012",
+   "name": "HumanoidRootPart",
+   "itemId": "item_017",
+   "property": "CFrame",
+   "valueType": "CFrame",
+   "keys": [
+    {
+     "id": "key_133",
+     "frame": 0,
+     "value": [
+      0.0,
+      3.02,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "HumanoidRootPart",
+       "class": "Part",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_134",
+     "frame": 7,
+     "value": [
+      0.0,
+      3.02,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "HumanoidRootPart",
+       "class": "Part",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_135",
+     "frame": 15,
+     "value": [
+      0.0,
+      3.02,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "HumanoidRootPart",
+       "class": "Part",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_136",
+     "frame": 22,
+     "value": [
+      0.0,
+      3.02,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "HumanoidRootPart",
+       "class": "Part",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_137",
+     "frame": 30,
+     "value": [
+      0.0,
+      3.02,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "HumanoidRootPart",
+       "class": "Part",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_138",
+     "frame": 37,
+     "value": [
+      0.0,
+      3.02,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "HumanoidRootPart",
+       "class": "Part",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_139",
+     "frame": 45,
+     "value": [
+      0.0,
+      3.02,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "HumanoidRootPart",
+       "class": "Part",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_140",
+     "frame": 52,
+     "value": [
+      0.0,
+      3.02,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "HumanoidRootPart",
+       "class": "Part",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_141",
+     "frame": 60,
+     "value": [
+      0.0,
+      3.02,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "HumanoidRootPart",
+       "class": "Part",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_142",
+     "frame": 75,
+     "value": [
+      0.0,
+      3.02,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "HumanoidRootPart",
+       "class": "Part",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_143",
+     "frame": 120,
+     "value": [
+      0.0,
+      3.02,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "HumanoidRootPart",
+       "class": "Part",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_144",
+     "frame": 150,
+     "value": [
+      0.0,
+      3.02,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "TestRig",
+       "class": "Model",
+       "index": 1
+      },
+      {
+       "name": "HumanoidRootPart",
+       "class": "Part",
+       "index": 1
+      }
+     ]
+    }
+   ],
+   "locked": false,
+   "enabled": true,
+   "targetPath": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "TestRig",
+     "class": "Model",
+     "index": 1
+    },
+    {
+     "name": "HumanoidRootPart",
+     "class": "Part",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "id": "track_013",
+   "name": "FieldOfView",
+   "itemId": "item_018",
+   "property": "FieldOfView",
+   "valueType": "number",
+   "keys": [
+    {
+     "id": "key_145",
+     "frame": 0,
+     "value": 70,
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "Camera",
+       "class": "Camera",
+       "index": 1
+      }
+     ]
+    },
+    {
+     "id": "key_146",
+     "frame": 150,
+     "value": 40,
+     "easing": "Linear",
+     "direction": "InOut",
+     "targetPath": [
+      {
+       "name": "Workspace",
+       "class": "Workspace",
+       "index": 1
+      },
+      {
+       "name": "Camera",
+       "class": "Camera",
+       "index": 1
+      }
+     ]
+    }
+   ],
+   "locked": false,
+   "enabled": true,
+   "targetPath": [
+    {
+     "name": "Workspace",
+     "class": "Workspace",
+     "index": 1
+    },
+    {
+     "name": "Camera",
+     "class": "Camera",
+     "index": 1
+    }
+   ]
+  }
+ ],
+ "markers": [],
+ "rigItemId": "item_001",
+ "groupKeyframes": false
+}
