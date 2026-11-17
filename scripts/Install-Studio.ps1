@@ -2,7 +2,7 @@
 # No login, no account: just the installer + the exe path for later steps.
 #
 # Run 1 lesson (2026-11-17): this step hung for 55+ min with no timeout
-# anywhere — Invoke-WebRequest has no default timeout, and
+# anywhere -- Invoke-WebRequest has no default timeout, and
 # Start-Process -Wait waits forever. Every wait below is now bounded, so a
 # stuck phase fails fast and says WHICH phase stuck.
 #
@@ -30,7 +30,7 @@ function Wait-ProcessBounded($proc, $timeoutSec, $what) {
     $deadline = (Get-Date).AddSeconds($timeoutSec)
     while (-not $proc.HasExited) {
         if ((Get-Date) -gt $deadline) {
-            Log "$what did NOT exit within ${timeoutSec}s — killing it"
+            Log "$what did NOT exit within ${timeoutSec}s -- killing it"
             try { Stop-Process -Id $proc.Id -Force -ErrorAction SilentlyContinue } catch {}
             return $false
         }
@@ -43,7 +43,7 @@ Log "Downloading Studio installer from $InstallerUrl ..."
 Invoke-WebRequest -Uri $InstallerUrl -OutFile $InstallerPath -UseBasicParsing -TimeoutSec 300
 Log "Installer size: $((Get-Item $InstallerPath).Length) bytes"
 
-Log "Running installer silently (/S) — 20 min cap ..."
+Log "Running installer silently (/S) -- 20 min cap ..."
 $proc = Start-Process -FilePath $InstallerPath -ArgumentList "/S" -PassThru -NoNewWindow
 $ok = Wait-ProcessBounded $proc 1200 "Studio installer"
 if ($ok) {
@@ -52,7 +52,7 @@ if ($ok) {
         throw "Studio installer failed with exit code $($proc.ExitCode)"
     }
 } else {
-    Log "Installer timed out after 20 min (exit code unknown — process killed)"
+    Log "Installer timed out after 20 min (exit code unknown -- process killed)"
 }
 
 # The installer deploys into %LOCALAPPDATA%\Roblox\Versions\version-*\.
@@ -85,7 +85,7 @@ $api = Start-Process -FilePath $StudioExe -ArgumentList "--api", "`"$apiOut`"" `
     -PassThru -NoNewWindow
 $apiOk = Wait-ProcessBounded $api 180 "--api probe"
 if (-not $apiOk) {
-    throw "--api probe did not exit within 180s — deploy is broken or hung"
+    throw "--api probe did not exit within 180s -- deploy is broken or hung"
 }
 Log "API dump exit code: $($api.ExitCode)"
 if (Test-Path $apiOut) {
