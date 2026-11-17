@@ -1,0 +1,57 @@
+# Keynova test on a real Windows machine (GitHub Actions runner).
+#
+# PREPARATION ONLY until the repo exists. Run by hand from the Actions tab
+# (workflow_dispatch) -- it never runs on push, so iterating is cheap.
+# Job max is 6 h; this job should take ~10-15 min. No GPU on runners.
+# Artifacts: the 5 s clip + every screenshot + logs (500 MB free storage;
+# a 5 s clip is a few hundred KB, fine).
+
+name: Keynova test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  keynova-test:
+    runs-on: windows-latest
+    timeout-minutes: 120
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Install ffmpeg (screen capture + trim + probe)
+        # Real projects use this exact pattern: choco install ffmpeg -y,
+        # then ffmpeg -f gdigrab -i desktop. No permission dialog on Windows.
+        run: choco install ffmpeg -y
+        shell: powershell
+
+      - name: Install Roblox Studio (silent)
+        run: .\scripts\Install-Studio.ps1
+        shell: powershell
+
+      - name: Install Keynova as a local plugin
+        # Local plugins live in %LOCALAPPDATA%\Roblox\Plugins, file directly
+        # inside, then restart Studio. No Creator Store, no login needed
+        # for the install itself.
+        run: |
+          $plugins = Join-Path $env:LOCALAPPDATA "Roblox\Plugins"
+          New-Item -ItemType Directory -Force -Path $plugins | Out-Null
+          Copy-Item .\Keynova.rbxmx (Join-Path $plugins "Keynova.rbxmx") -Force
+          Get-ChildItem $plugins | Format-Table Name, Length
+        shell: powershell
+
+      - name: Drive the test (headed Studio + record)
+        # Exit 0 = clip produced. Exit 2 = login screen (see PLAN.md).
+        # Other exits = see screenshots + driver.log in the artifacts.
+        run: .\scripts\Drive-Keynova.ps1
+        shell: powershell
+        continue-on-error: true
+
+      - name: Upload results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: keynova-test-results
+          path: out/
+          if-no-files-found: error
+          retention-days: 30
